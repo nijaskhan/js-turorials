@@ -88,4 +88,5 @@ console.log("incrementPostfix: ", incrementPostfix);
 
     // when conflict comes for fast-forward
     git pull origin <branchname> --allow-unrelated-histories
+        // pull = fetch and merge
 */
