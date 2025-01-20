@@ -85,4 +85,7 @@ console.log("incrementPostfix: ", incrementPostfix);
     git branch -M main
     git remote add origin https://github.com/nijaskhan/js-turorials.git
     git push -u origin main
+
+    // when conflict comes for fast-forward
+    git pull origin <branchname> --allow-unrelated-histories
 */
