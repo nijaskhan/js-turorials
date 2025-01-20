@@ -74,3 +74,15 @@ let incrementPostfix = z++;
 
 console.log("z: ", z);
 console.log("incrementPostfix: ", incrementPostfix);
+
+
+/* GIT EXAMPLES */
+/*
+    echo "# js-turorials" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/nijaskhan/js-turorials.git
+    git push -u origin main
+*/
